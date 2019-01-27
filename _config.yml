@@ -1,0 +1,3 @@
+include: 
+    - .well-known
+    - .folder_2/2.html
