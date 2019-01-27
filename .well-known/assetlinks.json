@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.wholesaleflights.android.stage.debug",
+    "sha256_cert_fingerprints":
+    ["01:4D:57:FB:37:E8:7B:E2:38:0D:68:E3:6C:B9:E9:A9:C4:0B:9F:0C:B5:46:0F:1D:11:8C:CA:5F:3D:9E:ED:DA"]
+  }
+}]
